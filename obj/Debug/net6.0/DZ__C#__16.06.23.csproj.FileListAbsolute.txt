@@ -1,0 +1,15 @@
+D:\Учеба\Занятия по C#\DZ__C#__16.06.23\bin\Debug\net6.0\DZ__C#__16.06.23.exe
+D:\Учеба\Занятия по C#\DZ__C#__16.06.23\bin\Debug\net6.0\DZ__C#__16.06.23.deps.json
+D:\Учеба\Занятия по C#\DZ__C#__16.06.23\bin\Debug\net6.0\DZ__C#__16.06.23.runtimeconfig.json
+D:\Учеба\Занятия по C#\DZ__C#__16.06.23\bin\Debug\net6.0\DZ__C#__16.06.23.dll
+D:\Учеба\Занятия по C#\DZ__C#__16.06.23\bin\Debug\net6.0\DZ__C#__16.06.23.pdb
+D:\Учеба\Занятия по C#\DZ__C#__16.06.23\obj\Debug\net6.0\DZ__C#__16.06.23.csproj.AssemblyReference.cache
+D:\Учеба\Занятия по C#\DZ__C#__16.06.23\obj\Debug\net6.0\DZ__C#__16.06.23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Занятия по C#\DZ__C#__16.06.23\obj\Debug\net6.0\DZ__C#__16.06.23.AssemblyInfoInputs.cache
+D:\Учеба\Занятия по C#\DZ__C#__16.06.23\obj\Debug\net6.0\DZ__C#__16.06.23.AssemblyInfo.cs
+D:\Учеба\Занятия по C#\DZ__C#__16.06.23\obj\Debug\net6.0\DZ__C#__16.06.23.csproj.CoreCompileInputs.cache
+D:\Учеба\Занятия по C#\DZ__C#__16.06.23\obj\Debug\net6.0\DZ__C#__16.06.23.dll
+D:\Учеба\Занятия по C#\DZ__C#__16.06.23\obj\Debug\net6.0\refint\DZ__C#__16.06.23.dll
+D:\Учеба\Занятия по C#\DZ__C#__16.06.23\obj\Debug\net6.0\DZ__C#__16.06.23.pdb
+D:\Учеба\Занятия по C#\DZ__C#__16.06.23\obj\Debug\net6.0\DZ__C#__16.06.23.genruntimeconfig.cache
+D:\Учеба\Занятия по C#\DZ__C#__16.06.23\obj\Debug\net6.0\ref\DZ__C#__16.06.23.dll
